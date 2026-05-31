@@ -194,6 +194,9 @@ main {
   font-weight: 400;
   color: var(--Cdark2);
 }
+.products-section .products-card .card i{
+  color: rgba(251, 130, 0, 1);
+}
 .products-card .card .product-details {
   font-size: 0.875rem;
   font-weight: 700;
